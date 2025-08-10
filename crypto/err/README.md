@@ -1,4 +1,4 @@
-Adding new libraries
+
 ====================
 
 When adding a new sub-library to OpenSSL, assign it a library number
